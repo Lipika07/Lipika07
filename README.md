@@ -1,12 +1,11 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Lipika</h1>
 <h3 align="center">A passionate Full stack Developer from India</h3>
 
 
-< img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e476ckjwexx5jfa0t71j6pgo242396njin4qvv5nbdf&rid=giphy.gif&ct=g"> 
+<img align="right" alt="coding" width="1200" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp"> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipika07&label=Profile%20views&color=0e75b6&style=flat" alt="lipika07" /> </p>
@@ -36,6 +35,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lipika07&show_icons=true&locale=en&layout=compact" alt="lipika07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lipika07&show_icons=true&locale=en" alt="lipika07" /></p>
+
+
 
 
 
